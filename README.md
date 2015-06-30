@@ -1,2 +1,2 @@
 # markdownsharp
-Automatically exported from code.google.com/p/markdownsharp
+Automatically exported from http://code.google.com/p/markdownsharp
