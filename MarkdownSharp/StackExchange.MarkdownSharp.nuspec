@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>StackExchange.MarkdownSharp</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>balpha, wumpus1, jrummell</authors>
+    <owners>Stack Exchange</owners>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>https://github.com/jrummell/markdownsharp</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Open source C# implementation of Markdown processor, as featured on Stack Overflow. NOTE: this package is not maintained by the project developers, I've simply made it available on NuGet.</description>
+    <copyright>Copyright 2015</copyright>
+    <tags>markdown markdownsharp md stackexchange</tags>
+  </metadata>
+</package>
