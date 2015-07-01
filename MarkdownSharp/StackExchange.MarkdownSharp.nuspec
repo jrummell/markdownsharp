@@ -3,7 +3,7 @@
   <metadata>
     <id>StackExchange.MarkdownSharp</id>
     <version>$version$</version>
-    <title>$title$</title>
+    <title>StackExchange.MarkdownSharp</title>
     <authors>balpha, wumpus1, jrummell</authors>
     <owners>Stack Exchange</owners>
     <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
